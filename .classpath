@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="var" path="M2_REPO/org/zkoss/zk/zkbind/8.0.1.1/zkbind-8.0.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/zkoss/zk/zul/8.0.1.1/zul-8.0.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/zkoss/zk/zk/8.0.1.1/zk-8.0.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/zkoss/common/zweb/8.0.1.1/zweb-8.0.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/zkoss/common/zcommon/8.0.1.1/zcommon-8.0.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/zkoss/common/zel/8.0.1.1/zel-8.0.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/javassist/javassist/3.18.2-GA/javassist-3.18.2-GA.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar" sourcepath="M2_REPO/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-jdk14/1.7.5/slf4j-jdk14-1.7.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.8/commons-codec-1.8.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/zkoss/zk/zkplus/8.0.1.1/zkplus-8.0.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/zkoss/zk/zhtml/8.0.1.1/zhtml-8.0.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4.jar" sourcepath="M2_REPO/commons-io/commons-io/2.4/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/zkoss/zsoup/1.8.2.5/zsoup-1.8.2.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
